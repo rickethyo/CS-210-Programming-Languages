@@ -68,9 +68,5 @@ Thumbs.db
 frequency.dat
 
 
-# Local project folders not yet a part of the repo
-Project1/
-Project2/
-
 # Visual Studio generated folder properties
 CppProperties.json
