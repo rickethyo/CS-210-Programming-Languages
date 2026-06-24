@@ -1,4 +1,5 @@
 # Visual Studio user-specific files
+
 .vs/
 *.rsuser
 *.suo
@@ -7,6 +8,7 @@
 *.sln.docstates
 
 # Build output
+
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -22,7 +24,8 @@ x86/
 [Ll]og/
 [Ll]ogs/
 
-# Compiled / generated files
+# Compiled and generated files
+
 *.exe
 *.obj
 *.ilk
@@ -36,6 +39,7 @@ x86/
 *.tmp
 
 # Visual C++ cache files
+
 ipch/
 *.aps
 *.ncb
@@ -46,27 +50,32 @@ ipch/
 *.VC.db
 *.VC.VC.opendb
 
-# Test / tooling
+# Test and tooling output
+
 [Tt]est[Rr]esult*/
 *.trx
 *.coverage
 *.coveragexml
 
-# Python cache, just in case
-__pycache__/
+# Python cache
+
+**pycache**/
 *.pyc
 
-# VS Code / other IDEs
+# Other IDE files
+
 .vscode/
 .idea/
 
-# OS files
+# Operating system files
+
 .DS_Store
 Thumbs.db
 
 # Project-generated output
+
 frequency.dat
 
-
 # Visual Studio generated folder properties
+
 CppProperties.json
